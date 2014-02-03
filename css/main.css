@@ -1,0 +1,63 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+.bg {
+  background-color: #e67e22;
+}
+
+
+
+.pumbotron {
+  margin: auto;
+  color: inherit;
+  margin-bottom:40px;
+  width: 600px;
+  padding-top: 10%;
+  font-family: Bebas;
+  color:white;
+  font-weight: 3px;
+  font-family: helvetica, georgia;
+}
+
+.font-bg{
+  font-size: 60px;
+
+}
+
+.menu{
+  list-style-type: none;
+}
+
+.menu li {
+  float:left;
+  padding-right:30px;
+}
+
+.menu a{
+  text-decoration: none;
+  color:#d35400;
+}
+
+.menu a:hover{
+  color:#fff;
+}
+
+.orange-box{
+
+  margin: auto;
+  width: 600px;
+  padding: 2%;
+  color:white;
+  font-family: helvetica, georgia;
+  background-color: #d35400;
+  -moz-border-radius-bottomright: 50px;
+  border-bottom-right-radius: 50px;
+}
+
+.about{
+
+}
